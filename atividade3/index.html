@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <form action="save.php" method="get">
+
+        <label for="nome">Nome</label>
+            <input type="text" id="nome" name="nome"><br><br>
+    
+            <fieldset>
+                <legend>Idade</legend>
+                <input type="radio" id="idade18" name="idade18" value="idade18">
+                <label for="idade18">18</label><br>
+                <input type="radio" id="idade19" name="idade19" value="idade19">
+                <label for="idade19">19 - 35</label><br>
+                <input type="radio" id="idade36" name="idade36" value="idade36">
+                <label for="idade36">36 - 48</label><br>
+                <input type="radio" id="idade49" name="idade49" value="idade49">
+                <label for="idade36">>49</label><br>
+            </fieldset><br>
+
+
+            <label for="profissao">Profissão:</label>
+            <input type="text" id="profissao" name="profissao"><br><br>
+
+            <label for="pais">País</label>
+            <select name="pais" id="pais">
+                <option value="brasil">Brasil</option>
+                <option value="portugal">Portugal</option>
+                <option value="franca">França</option>
+                <option value="japao">Japão</option>
+            </select><br><br>
+
+            
+            <fieldset>
+                <legend>Interesses</legend>
+                <input type="checkbox" name="futebol" value="futebol">
+                <label for="futebol">Futebol</label><br>
+                <input type="checkbox" name="musica" value="musica">
+                <label for="musica">Musica</label><br>
+                <input type="checkbox" name="cinema" value="cinema">
+                <label for="cinema">Cinema</label><br>
+                <input type="checkbox" name="desenho" value="desenho">
+                <label for="desenho">Desenho</label><br>
+                <input type="checkbox" name="pintura" value="pintura">
+                <label for="pintura">Pintura</label><br>
+            </fieldset><br>
+
+            <label for="mensagem">Como descobriu o site?</label><br>
+            <textarea name="mensagem" id="mensagem"></textarea>
+
+
+
+    </form>
+    
+</body>
+</html>
