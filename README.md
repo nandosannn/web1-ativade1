@@ -4,10 +4,10 @@
 
 Atividades com o objetivo de praticar conceitos de HTML.
 
-- [Tarefa I: Jornal Online]()
-- [Tarefa II: Tabela]()
-- [Tarefa III: Formulario]()
-- [Tarefa IV: Rede SOcial]()
+- [Tarefa I: Jornal Online](https://github.com/nandosannn/web1-ativade1/tree/main/tarefa01)
+- [Tarefa II: Tabela](https://github.com/nandosannn/web1-ativade1/tree/main/tarefa02)
+- [Tarefa III: Formulario](https://github.com/nandosannn/web1-ativade1/tree/main/tarefa03)
+- [Tarefa IV: Rede SOcial](https://github.com/nandosannn/web1-ativade1/tree/main/tarefa04)
 
 ### Conceitos aplicados
 <hr>
@@ -49,4 +49,4 @@ Elemento | Descrição
 
 ### Autor
 
-[Fernando Silva dos Santos]()
+[Fernando Silva dos Santos](https://github.com/nandosannn)
